@@ -1,10 +1,10 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
+# 19AI304-Fundamentals-of-C-Programming-2026-Odd-M4
 # IAPR-4- Module 4 - FoC
 ## 7. Implementation of Functions.
 ## 8. Implementation of passing parameters.
 # Ex.No:16
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
-# Date : 04/12/2025
+# Date : 04/5/2026
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
@@ -314,7 +314,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:19
   Build a C program to print the elements of a given 4×4 matrix in spiral order starting from the top-left element and moving clockwise,using a user-defined parameterized function without return spiralPrint().
-# Date : 04/12/2025
+# Date : 04/5/2026
 # Aim:
  To build a C program to display the elements of a 2D array in spiral form, traversing the outer elements first and then moving inward in a clockwise direction, using a user-defined parameterized function without return spiralPrint().
 # Algorithm:
@@ -421,11 +421,11 @@ int main()
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
+# 19AI304-Fundamentals-of-C-Programming-2026-Odd-M4
 # IAPR-4- Module 4 - FoC
 # Ex.No:20
   Build a C program to convert a string such that the first and last characters, as well as the characters before and after each space, are converted to uppercase. Implement this using a user-defined parameterized function without return.
-# Date : 04/12/2025
+# Date : 04/5/2026
 # Aim:
 To build a C program to convert a string as described above, using a user-defined parameterized function without return convertFirstCLastC(char str[]).
 # Algorithm:
